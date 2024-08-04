@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vatsal Khanna</h1>
 <h3 align="center">A Tech enthusiast, passionate for merging Tech and Finance</h3>
-<img align="right"style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;src="https://i.pinimg.com/originals/08/e4/1c/08e41c2059323fad9b46ea6a18d1b8ef.gif" width="400" height="300">
-
+<img align="left" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/3f/0d/68/3f0d68483e9885f320de9f7c482f1bd5.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalkhanna5&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalkhanna5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsalkhanna5" alt="vatsalkhanna5" /></a> </p>
