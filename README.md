@@ -1,6 +1,7 @@
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)](https://x.com/VatsalKhanna55)
 <h1 align="center">Hi 👋, I'm Vatsal Khanna</h1>
 <h3 align="center">A Tech enthusiast, passionate for merging Tech and Finance</h3>
-<img align="left" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/3f/0d/68/3f0d68483e9885f320de9f7c482f1bd5.gif">
+<img align="left" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalkhanna5&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalkhanna5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsalkhanna5" alt="vatsalkhanna5" /></a> </p>
