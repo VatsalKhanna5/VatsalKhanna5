@@ -1,5 +1,7 @@
+[![MasterHead](https://in.pinterest.com/pin/541346817724396023/)]
 <h1 align="center">Hi 👋, I'm Vatsal Khanna</h1>
 <h3 align="center">A Tech enthusiast, passionate for merging Tech and Finance</h3>
+<image align='right' alt="Coding" width="400" src="https://in.pinterest.com/pin/108438303511698721/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalkhanna5&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalkhanna5" /> </p>
 
