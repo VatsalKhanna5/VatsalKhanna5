@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/vatsalkhanna55" target="blank"><img src="https://img.shields.io/twitter/follow/vatsalkhanna55?logo=twitter&style=for-the-badge" alt="vatsalkhanna55" /></a> </p>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Gemini 2024 Challenge** 
+- 🔭 I’m currently working on **DSA and Unsupervised Machine Learning** 
 
 - 🌱 I’m currently learning **Deep Learning with Keras,TF + DSA with C++**
 
