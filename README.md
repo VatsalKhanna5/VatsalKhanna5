@@ -1,56 +1,90 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)](https://x.com/VatsalKhanna55)
-<h1 align="center">Hi 👋, I'm Vatsal Khanna</h1>
-<h3 align="center">A Tech enthusiast, passionate for merging Tech and Finance</h3>
-<img align="left" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif">
+<h1 align="center">
+  <img src="https://github.com/VatsalKhanna5/VatsalKhanna5/blob/main/Linkedin_Banner2.png" alt="Vatsal Khanna Banner">
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalkhanna5&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalkhanna5" /> </p>
+<h1 align="center">Hi there! 👋 I'm Vatsal Khanna</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsalkhanna5" alt="vatsalkhanna5" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vatsalkhanna55" target="blank"><img src="https://img.shields.io/twitter/follow/vatsalkhanna55?logo=twitter&style=for-the-badge" alt="vatsalkhanna55" /></a> </p>
-
-# 💫 About Me:
-- 🔭 I’m currently working on **DSA and Unsupervised Machine Learning** 
-
-- 🌱 I’m currently learning **Deep Learning with Keras,TF + DSA with C++**
-
-- 👯 I’m looking to collaborate on **AI & ML Projects**
-
-- 💬 Ask me about **Machine Learning and AI**
-
-- 📫 How to reach me **vatsalkhanna5@gmail.com**
-
-- ⚡ Fun fact **I like coding in day contrary to most devs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vatsalkhanna55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vatsalkhanna55" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vatsalkhanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vatsalkhanna" height="30" width="40" /></a>
-<a href="https://kaggle.com/vatsalkhanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vatsalkhanna" height="30" width="40" /></a>
-<a href="https://instagram.com/vatsalkhanna5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vatsalkhanna5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vatsalkhanna5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vatsalkhanna5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vatsalkhanna5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vatsalkhanna5" height="30" width="40" /></a>
+<p align="center">
+  <em>Tech Enthusiast | AI/ML Developer | Bridging Tech and Finance</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsalkhanna)
+  [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vatsalkhanna55)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/vatsalkhanna)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vatsalkhanna5)
+  
+</div>
 
+<div align="center">
+  <img height="300" src="https://github.com/VatsalKhanna5/VatsalKhanna5/blob/main/Vatsal%20Khanna.gif" alt="coding gif">
+</div>
 
-# ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 About Me
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VatsalKhanna5&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VatsalKhanna5&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalKhanna5&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```python
+class VatsalKhanna:
+    def __init__(self):
+        self.role = "AI/ML Developer"
+        self.learning = ["Deep Learning", "DSA with C++"]
+        self.working_on = ["DSA", "Unsupervised Machine Learning"]
+        self.interests = ["AI", "Machine Learning", "Finance"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's collaborate on AI & ML projects!")
 
+me = VatsalKhanna()
+me.say_hi()
+```
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VatsalKhanna5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🛠️ Tech Stack
 
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  
+</div>
 
+## 📈 GitHub Stats
 
-<!----
-VatsalKhanna5/VatsalKhanna5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VatsalKhanna5&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalKhanna5&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vatsalkhanna5&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## ✨ Fun Facts
+
+- 🌞 I prefer coding during the day (contrary to most devs!)
+- 📫 Reach me at: vatsalkhanna5@gmail.com
+- 💡 Always excited to collaborate on AI & ML projects
+
+## 📝 Featured Quote
+
+<div align="center">
+  
+  ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vatsalkhanna5&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</div>
