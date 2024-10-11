@@ -20,7 +20,6 @@
 </div>
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img height="300" src="https://github.com/VatsalKhanna5/VatsalKhanna5/blob/main/AI_gif.gif" alt="coding gif">
-  <img height="300" src="https://github.com/VatsalKhanna5/VatsalKhanna5/blob/main/Vatsal%20Khanna.gif" alt="coding gif">
   <img height="300" src="https://github.com/VatsalKhanna5/VatsalKhanna5/blob/main/SOON-gif.gif" alt="coding gif">
 </div>
 
