@@ -81,7 +81,7 @@ me.say_hi()
 
 <div align="center">
   
-  ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  The power of illusion is such that when you have things your way, you don't think that miseries will ever come your way.
   
 </div>
 
