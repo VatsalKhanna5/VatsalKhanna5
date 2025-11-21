@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/VatsalKhanna5/VatsalKhanna5/blob/main/Linkedin_Banner2.png" alt="Vatsal Khanna Banner">
+  <img src="https://github.com/VatsalKhanna5/VatsalKhanna5/blob/main/Yellow%20New%20Arrival%20Twitter%20header.png" alt="Vatsal Khanna Banner">
 </h1>
 
 <h1 align="center">Hi there! 👋 I'm Vatsal Khanna</h1>
