@@ -83,10 +83,6 @@ me.say_hi()
   
 </div>
 
-<div align="center">
-![snake gif](https://github.com/VatsalKhanna5/VatsalKhanna5/blob/output/github-snake-dark.svg)
-</div>
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vatsalkhanna5&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
